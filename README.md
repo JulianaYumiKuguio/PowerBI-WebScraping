@@ -4,7 +4,7 @@ Dashboard de vendas para uma empresa fictícia com base de dados importada atrav
 
 
 
-Esse Dashboard tem como objetivo realizar analise de indicadores do setor de vendas de carros conforme modelo, ano, valores:
+Esse Dashboard tem como objetivo realizar analise de indicadores do setor de vendas de carros conforme modelo, ano, valores, por estado e por condições do carro:
 
 
 
